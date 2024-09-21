@@ -1,0 +1,15 @@
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\obj\Debug\net8.0\SD_KnowlegeCheck_M2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\obj\Debug\net8.0\SD_KnowlegeCheck_M2.AssemblyInfoInputs.cache
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\obj\Debug\net8.0\SD_KnowlegeCheck_M2.AssemblyInfo.cs
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\obj\Debug\net8.0\SD_KnowlegeCheck_M2.csproj.CoreCompileInputs.cache
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\obj\Debug\net8.0\SD_KnowlegeCheck_M2.sourcelink.json
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\bin\Debug\net8.0\SD_KnowlegeCheck_M2.exe
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\bin\Debug\net8.0\SD_KnowlegeCheck_M2.deps.json
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\bin\Debug\net8.0\SD_KnowlegeCheck_M2.runtimeconfig.json
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\bin\Debug\net8.0\SD_KnowlegeCheck_M2.dll
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\bin\Debug\net8.0\SD_KnowlegeCheck_M2.pdb
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\obj\Debug\net8.0\SD_KnowlegeCheck_M2.dll
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\obj\Debug\net8.0\refint\SD_KnowlegeCheck_M2.dll
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\obj\Debug\net8.0\SD_KnowlegeCheck_M2.pdb
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\obj\Debug\net8.0\SD_KnowlegeCheck_M2.genruntimeconfig.cache
+C:\Users\FaZeD\OneDrive\Documents\Projects\SD_KnowlegeCheck_M2\obj\Debug\net8.0\ref\SD_KnowlegeCheck_M2.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\sd_knowlegecheck_m2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\sd_knowlegecheck_m2\\otherrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|solutionrelative:otherrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\sd_knowlegecheck_m2\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|solutionrelative:records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\sd_knowlegecheck_m2\\podcastrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|solutionrelative:podcastrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\sd_knowlegecheck_m2\\musicrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|solutionrelative:musicrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\sd_knowlegecheck_m2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\sd_knowlegecheck_m2\\productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598DEBA9-21DF-4CFD-9733-75727BAD072C}|SD_KnowlegeCheck_M2.csproj|solutionrelative:productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-17T19:48:45.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PodcastRecords.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\PodcastRecords.cs",
+              "RelativeDocumentMoniker": "PodcastRecords.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\PodcastRecords.cs",
+              "RelativeToolTip": "PodcastRecords.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:51:16.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicRecords.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\MusicRecords.cs",
+              "RelativeDocumentMoniker": "MusicRecords.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\MusicRecords.cs",
+              "RelativeToolTip": "MusicRecords.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:44:03.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OtherRecords.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\OtherRecords.cs",
+              "RelativeDocumentMoniker": "OtherRecords.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\OtherRecords.cs",
+              "RelativeToolTip": "OtherRecords.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:10:03.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Records.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\Records.cs",
+              "RelativeDocumentMoniker": "Records.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\Records.cs",
+              "RelativeToolTip": "Records.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:42:06.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductLogic.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\ProductLogic.cs",
+              "RelativeDocumentMoniker": "ProductLogic.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\ProductLogic.cs",
+              "RelativeToolTip": "ProductLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:36:53.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\SD_KnowlegeCheck_M2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAKDMzMzP7vzIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:27:40.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
