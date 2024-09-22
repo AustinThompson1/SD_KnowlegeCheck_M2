@@ -16,15 +16,15 @@ namespace SD_KnowledgeCheck_M2
 
                 Console.WriteLine("Press 0 to exit.\n Press 1 to view all records\n Press 2 to add a MusicRecord\n Press 3 to add a PodcastRecord\n Press 4 to add OtherRecord \n Please enter a number.");
                 int userInput = Convert.ToInt32(Console.ReadLine());
-                while (userInput != 0)
+                do
                 {
                     if (userInput == 1)
                     {
                         foreach (var Records in recordList)
                         {
-                            Console.WriteLine(recordList);
+                            Console.WriteLine(Records);
                         }
-                    }
+                    } 
 
 
 
@@ -40,7 +40,6 @@ namespace SD_KnowledgeCheck_M2
                         Console.WriteLine($"How many songs would you like to add to {inputMusicRecord.recordName}?");
                         inputMusicRecord.songAmount = Convert.ToInt32(Console.ReadLine());
                         recordList.Add(inputMusicRecord);
-                        Console.WriteLine("Record has been added press 0 to exit.");
                     }
                     if (userInput == 3)
                     {
@@ -52,7 +51,6 @@ namespace SD_KnowledgeCheck_M2
                         Console.WriteLine($"What are the hosts in the podcast {inputPodcastRecord.recordName}");
                         inputPodcastRecord.podcastHosts = Console.ReadLine();
                         recordList.Add(inputPodcastRecord);
-                        Console.WriteLine("Record has been added press 0 to exit.");
                     }
                     if (userInput == 4)
                     {
@@ -60,10 +58,11 @@ namespace SD_KnowledgeCheck_M2
                         inputOtherRecord.recordName = Console.ReadLine();
                         Console.WriteLine($"You entered {inputOtherRecord.recordName}.");
                         recordList.Add(inputOtherRecord);
-                        Console.WriteLine("Record has been added press 0 to exit.");
 
                     }
-                }
+                    Console.WriteLine("\"Press 0 to exit.\\n Press 1 to view all records\\n Press 2 to add a MusicRecord\\n Press 3 to add a PodcastRecord\\n Press 4 to add OtherRecord \\n Please enter a number.\"");
+                    userInput = Convert.ToInt32(Console.ReadLine());
+                } while (userInput != 0);
             }
         }
     }

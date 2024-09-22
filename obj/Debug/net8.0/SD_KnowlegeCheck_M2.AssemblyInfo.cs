@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SD_KnowlegeCheck_M2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+043f42b8e7d77852609a3306770d6031d090959f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd09a899bb67240766eff20332f9209ff62d5dd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SD_KnowlegeCheck_M2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SD_KnowlegeCheck_M2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
