@@ -8,7 +8,7 @@
 
         public override string ToString()
         {
-            return artist;
+            return recordName;
         }
     }
     // Print out the list of records using Console.WriteLine()

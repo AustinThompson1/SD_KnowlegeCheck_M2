@@ -34,7 +34,8 @@ namespace SD_KnowledgeCheck_M2
 
                         Console.WriteLine($"Enter the new artist.");
                         inputMusicRecord.recordName = Console.ReadLine();
-                        Console.WriteLine($"You entered {inputMusicRecord.recordName}.");
+                        inputMusicRecord.artist = inputMusicRecord.recordName;
+                        Console.WriteLine($"You entered {inputMusicRecord.artist}.");
 
 
                         Console.WriteLine($"How many songs would you like to add to {inputMusicRecord.recordName}?");
